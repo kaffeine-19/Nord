@@ -8,7 +8,7 @@ Kaffeine is a light theme for the [Textual IRC client](https://www.codeux.com/te
 
 ## Installing
 
-1. [Download the Kaffeine theme](https://github.com/kaffeine-19/Kaffeine-Textual-Style/archive/master.zip)
+1. [Download the Nord theme](https://github.com/kaffeine-19/Nord.zip/archive/master.zip)
 
 2. Open Textual's preferences. Go to Addons->Installed Addons and click the
    "Open in Finder" button next to the "Custom Addons Location" label.
