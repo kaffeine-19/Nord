@@ -6,6 +6,10 @@ Kaffeine is a light theme for the [Textual IRC client](https://www.codeux.com/te
 
 ![Screenshot](sss.png?raw=true)
 
+## Note
+
+[Font] https://larsenwork.com/monoid/
+
 ## Installing
 
 1. [Download the Nord theme](https://github.com/kaffeine-19/Nord.zip/archive/master.zip)
